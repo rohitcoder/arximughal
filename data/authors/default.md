@@ -9,8 +9,10 @@ linkedin: https://arslanaslam.me
 github: https://github.com/arximughal
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Muhammad Arslan Aslam is a Software Engineer, currently working as a Principal Software Engineer @ [Nisum](https://nisum.com), in Lahore, Pakistan.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Previously, I've worked with [BrandJaws](https://brandjaws.com) and [Arrivy, Inc](https://arrivy.com).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Moslty I work in JavaScript echo-system. React is the framework of choice but I've recently started shifting more towards Vue.js. Previously, I have worked with PHP/Laravel as well. I loved WordPress for a very long, but we have parted ways for some time. I do use it for some of my old projects, but it's got it's issues!
+
+You can reach out to me for new projects, Oper Source Contributions, or even to say hello at: **hello[at]arslanaslam[dot]me**
