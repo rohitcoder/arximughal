@@ -19,7 +19,7 @@ const LayoutWrapper = ({ children }) => {
             <Link href="/" aria-label="Tailwind CSS Blog">
               <div className="flex items-center justify-between">
                 <div className="mr-3">
-                  {theme === 'dark' ? (
+                  {theme === 'dark' || theme === 'system' ? (
                     <Image src={'/static/images/dark-bg-light-text.png'} width={280} height={50} />
                   ) : (
                     <Image src={'/static/images/light-bg-dark-text.png'} width={280} height={50} />
