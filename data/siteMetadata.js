@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Muhammad Arslan Aslam\'s Blog',
+  title: "Muhammad Arslan Aslam's Blog",
   author: 'Muhammad Arslan Aslam',
   headerTitle: 'Muhammad Arslan Aslam',
   description: 'Princiapl Software Engineer @ Nisum -- Previously, BrandJaws.',
@@ -20,7 +20,7 @@ const siteMetadata = {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
-    googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'UA-67990658-13', // e.g. UA-000000-2 or G-XXXXXXX
   },
   comment: {
     // Select a provider and use the environment variables associated to it
@@ -39,7 +39,7 @@ const siteMetadata = {
       metadata: '0',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
-      theme: 'light',
+      theme: 'dark',
       // theme when dark mode
       darkTheme: 'transparent_dark',
       // If the theme option above is set to 'custom`
