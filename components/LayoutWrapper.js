@@ -16,7 +16,7 @@ const LayoutWrapper = ({ children }) => {
       <div className="flex flex-col justify-between h-screen">
         <header className="flex items-center justify-between py-10">
           <div>
-            <Link href="/" aria-label="Tailwind CSS Blog">
+            <Link href="/">
               <div className="flex items-center justify-between">
                 <div className="mr-3">
                   {theme === 'dark' || theme === 'system' ? (
@@ -30,15 +30,29 @@ const LayoutWrapper = ({ children }) => {
           </div>
           <div className="flex items-center text-base leading-5">
             <div className="hidden sm:block">
-              {headerNavLinks.map((link) => (
-                <Link
-                  key={link.title}
-                  href={link.href}
-                  className="p-1 font-medium text-gray-900 sm:p-4 dark:text-gray-100"
-                >
-                  {link.title}
-                </Link>
-              ))}
+              {headerNavLinks.map((link) => {
+                if (Object.prototype.hasOwnProperty.call(link, 'type') && link.type === 'cta') {
+                  return (
+                    <Link
+                      key={link.title}
+                      href={link.href}
+                      className="bg-slate-900 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50 text-white font-semibold h-12 px-6 rounded-full py-3 mx-3 justify-center dark:bg-emerald-500 dark:highlight-white/20 dark:hover:bg-emerald-400"
+                    >
+                      {link.title}
+                    </Link>
+                  )
+                } else {
+                  return (
+                    <Link
+                      key={link.title}
+                      href={link.href}
+                      className="p-1 font-medium text-gray-900 sm:p-4 dark:text-gray-100"
+                    >
+                      {link.title}
+                    </Link>
+                  )
+                }
+              })}
             </div>
             <ThemeSwitch />
             <MobileNav />
