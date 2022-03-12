@@ -168,7 +168,7 @@ export default function HireMe() {
             <br />
             <div className="flex justify-center">
               <a
-                href="#."
+                href="mailto:hello@arslanaslam.me"
                 className="bg-slate-900 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50 text-white font-semibold h-12 px-6 rounded-full w-auto max-w-xs flex items-center justify-center dark:bg-emerald-500 dark:highlight-white/20 dark:hover:bg-emerald-400"
               >
                 Sold yet? Let's Discuss
