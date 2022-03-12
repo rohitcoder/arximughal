@@ -60,3 +60,19 @@ h6 {
   background-position: center;
   opacity: 0.15;
 }
+
+.availability-indicator {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border: 1px transparent;
+  border-radius: 50%;
+}
+
+.available {
+  background: lawngreen;
+}
+
+.not-available {
+  background: red;
+}

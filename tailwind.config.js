@@ -21,7 +21,7 @@ module.exports = {
       },
       colors: {
         primary: colors.indigo,
-        gray: colors.coolGray,
+        gray: colors.gray,
         code: {
           green: '#b5f4a5',
           yellow: '#ffe484',
