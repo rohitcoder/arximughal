@@ -17,8 +17,9 @@ module.exports = {
         14: '3.5rem',
       },
       fontFamily: {
-        sans: ['Inter', ...defaultTheme.fontFamily.sans],
+        sans: ['Montserrat', ...defaultTheme.fontFamily.sans],
       },
+      fontWeight: '400',
       colors: {
         primary: colors.indigo,
         gray: colors.gray,

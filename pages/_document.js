@@ -23,8 +23,10 @@ class MyDocument extends Document {
           <meta name="theme-color" content="#000000" />
           <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+          <link rel="preconnect" href="https://fonts.googleapis.com" />
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
           <link
-            href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400&family=Playfair+Display:wght@700;800&display=swap"
             rel="stylesheet"
           />
           <link
