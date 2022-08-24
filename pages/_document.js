@@ -25,8 +25,12 @@ class MyDocument extends Document {
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
-          <link
+          {/* <link
             href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400&family=Playfair+Display:wght@700;800&display=swap"
+            rel="stylesheet"
+          /> */}
+          <link
+            href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,700;1,100;1,200;1,700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"
             rel="stylesheet"
           />
           <link
