@@ -2,7 +2,7 @@ const siteMetadata = {
   title: "Muhammad Arslan Aslam's Blog",
   author: 'Muhammad Arslan Aslam',
   headerTitle: 'Muhammad Arslan Aslam',
-  description: 'Principal Software Engineer @ Nisum, Lahore',
+  description: 'Technical Lead @ Nisum, Lahore',
   language: 'en-us',
   siteUrl: 'https://arslanaslam.me',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',

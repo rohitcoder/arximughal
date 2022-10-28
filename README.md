@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, this is Muhammad Arslan Aslam <img src="https://i.imgur.com/Nv4tNB3.png" align="right" width="400" />
 
-I am a Software Engineer based in Lahore, Pakistan. Currently, I am working as a Principal Software Engineer [@Nisum](https://nisum.com).
+I am a Software Engineer based in Lahore, Pakistan. Currently, I am working as a Technical Lead [@Nisum](https://nisum.com).
 
 Mostly, I do JavaScript/ReactJS stuff. But I love working with PHP/Laravel & WordPress.
 

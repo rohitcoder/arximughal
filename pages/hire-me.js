@@ -5,7 +5,7 @@ export default function HireMe() {
   return (
     <>
       <PageSEO
-        title={`Hire ${siteMetadata.author} - Principal JavaScript Developer`}
+        title={`Hire ${siteMetadata.author} - Lead JavaScript Developer`}
         description={siteMetadata.description}
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
@@ -31,10 +31,9 @@ export default function HireMe() {
             </p>
             <br />
             <p>
-              For the past few months, I've been working full-time as a Principal Software Engineer
-              in Health sector. Previously, I have had experience working with Silicon Valley
-              startups, industry giants, educational institutions and many more small and big
-              companies.
+              For the past few months, I've been working full-time as a Technical Lead have had
+              experience working with Silicon Valley startups, industry industry giants,
+              institutions and many more small and big companies.
             </p>
             <br />
             <p>
