@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, this is Muhammad Arslan Aslam <img src="https://i.imgur.com/Nv4tNB3.png" align="right" width="400" />
+# Hi 👋, this is Muhammad Arslan Aslam <img src="https://arslanaslam.me/_next/image?url=%2Fstatic%2Fimages%2Fdark-bg-light-text.png&w=384&q=75" align="right" width="400" />
 
 I am a Software Engineer based in Lahore, Pakistan. Currently, I am working as a Technical Lead [@Nisum](https://nisum.com).
 
