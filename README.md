@@ -19,7 +19,7 @@ I am a Software Engineer based in Lahore, Pakistan. Currently, I am working as a
 
 Mostly, I do JavaScript/ReactJS stuff. But I love working with PHP/Laravel & WordPress.
 
-You can react out to me at:
+You can reach out to me at:
 
 🧑‍💻: [arslanaslam.me](https://arslanaslam.me) <br />
 🐦: [@arximughal](https://twitter.com/arximughal) <br />
